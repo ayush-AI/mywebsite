@@ -3,10 +3,10 @@ languageCode = "en-us"
 theme = "aafu"
 
 [params]
-    title = "Ayush"
-    author = "Ayush"
+    title = "Aafu theme"
+    author = "Darshan Baral"
     description = "Website title"
-    copyright = ""
+    copyright = "aaa"
 
     [params.theme]
         # Available themes are 'light', 'dark', and 'pinkish'
